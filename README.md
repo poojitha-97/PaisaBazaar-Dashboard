@@ -81,6 +81,8 @@ The following preprocessing steps were performed:
 
 ## Dashboard Analysis
 
+<img width="1333" height="753" alt="PaisaBazaar_Dashboard" src="https://github.com/user-attachments/assets/4d3d0160-e6eb-4aea-ac2d-fb07b04cbd7b" />
+
 ### Credit Risk Analysis:
 
 - Credit Score Trends
@@ -112,3 +114,5 @@ Some key business insights include:
 - Certain customer segments contribute disproportionately to overall portfolio risk.
 - Credit score and loan amount show strong correlation with approval decisions.
 - Risk categories help prioritize monitoring and intervention strategies.
+
+
